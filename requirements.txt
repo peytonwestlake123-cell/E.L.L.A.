@@ -1,0 +1,5 @@
+vosk
+sounddevice
+openai
+pyttsx3
+numpy
